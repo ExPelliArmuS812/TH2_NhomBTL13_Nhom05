@@ -3,6 +3,7 @@ Phân công công việc:
 - Luyện Trần Anh - B19DCCN019: Xử lý các Controller
 - Trần Nguyễn Đức Anh - B19DCCN043: Xử lý các file html
 - Tạ Đình Duy - B19DCCN142: Tạo database và đối tượng cần xử lý
+
 Mô tả quả trình làm:
 1. Tạo 3 package app.controller, app.model, app.repository
 2. Tạo class ViewController trong app.controller hiển thị trang home chính là file home.html
